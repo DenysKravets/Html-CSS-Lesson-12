@@ -1,0 +1,156 @@
+@media (min-width: 1920px) {
+  div.container-xxl {
+    max-width: 1440px !important;
+  }
+}
+.top-picture-box {
+	background-image: url(images/town.jpg);
+	background-size: cover;
+}
+* {
+	-webkit-box-sizing: border-box!important; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box!important;    /* Firefox, other Gecko */
+box-sizing: border-box!important;         /* Opera/IE 8+ */
+}
+.container-5 {
+	width: 1320px!important;
+}
+@media (max-width: 1400px) {
+
+.remove {
+	display: none!important;
+}
+.remove-padding {
+	padding: 0!important;
+}
+.remove-margin {
+	margin: 0!important;
+}
+.center-text {
+	text-align: center;
+}
+.font-24 {
+	font-size: 24px!important;
+}
+.font-20 {
+	font-size: 20px!important;
+}
+.font-13 {
+	font-size: 13px!important;
+}
+.top-picture-box {
+	width: 360px!important;
+	height: 275px!important;
+	padding-right: 0!important;
+}
+.h-25 {
+	padding-right: 0!important;
+	width: 360px!important;
+}
+.col-xxl-4 {
+	padding-right: 0!important;
+	width: 360px!important;
+}
+.margin-top-1 {
+	margin-top: 40px;
+}
+.margin-top-2 {
+	margin-top: 15px;
+}
+.margin-top-3 {
+	margin-top: 30px;
+}
+.container-2 {
+	padding: 30px 20px!important;
+}
+.container-2 div {
+	text-align: center; 
+}
+.font-12 {
+	font-size: 12px!important;
+}
+.scale-down {
+	transform: scale(0.4850285714285714);
+}
+.container-3 {
+	display: block!important;
+}
+.container-3 img {
+	width: 224px!important;
+	height: 218px!important;
+}
+.style {
+	padding-bottom: 11px!important;
+}
+.first {
+	padding: 20px 0 10px 0!important;
+}
+.first-1 {
+	width: 82px!important;
+	
+}
+.first-2 {
+	width: 210px!important;
+	margin-left: 16px!important;
+}
+.rows {
+	
+}
+.rows-1 {
+	width: 82px!important;
+}
+.rows-2 {
+	width: 210px!important;
+	margin-left: 16px!important;
+}
+.container-4 {
+	padding: 30px 0px!important;
+	text-align: center!important;
+}
+.container-4 p {
+	width: 308px!important;
+	margin-left: 26px!important;
+	margin-right: 1px!important;	
+}
+.img-1 {
+	width: 169.76px!important;
+	
+}
+.img-2 {
+	width: 169.76px!important;
+	margin-top: 13px!important;
+	
+}
+.img-3 {
+	width: 123.69px!important;
+}
+.img-4 {
+	width: 123.69px!important;
+	margin-top: 13px!important;
+}
+.container-5 {
+	padding: 25px 50px!important;
+	width: 360px!important;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
